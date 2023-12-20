@@ -26,6 +26,10 @@ TCP Packet Analyzer is a Python tool for analyzing TCP packets in pcap files and
 python PacketExplorer.py sample.pcap -s ftp ssh telnet
 ```
 
+<img src="https://i.hizliresim.com/5sbudxd.png" width="auto">
+<img src="https://i.hizliresim.com/6a2mkai.png" width="auto">
+<img src="https://i.hizliresim.com/syw50wk.png" width="auto">
+
 ## Contributing
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
