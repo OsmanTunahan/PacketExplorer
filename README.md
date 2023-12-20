@@ -1,4 +1,3 @@
-```markdown
 # TCP Packet Explorer
 
 TCP Packet Analyzer is a Python tool for analyzing TCP packets in pcap files and providing readable data based on defined protocols. It uses Scapy for packet manipulation and Colorama for colored console output.
@@ -32,4 +31,3 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
